@@ -13,6 +13,7 @@
   "author": "Frank dev",
   "license": "apache2.0",
   "dependencies": {
+"body-parser" : "^1.20.2" 
 "date-fns": "^2.30.0",
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
